@@ -1,0 +1,3 @@
+# linear_regression
+## What is the purpose of this project?
+This project serves as practice for linear-regression ML technique on a dataset. In addition, I plot the trends using matlotlib's pyplot tools. The project uses historical data of how many days in each year Lake Mendota (Madison, WI) had been frozen. Some values are missing from historical data, so sataset has to be properly parces. Then, linear regression is used to predict how many days of ice is expected for the following years. Notably, this might not accurately predict the actual days of ice cover, as the relationship between year and the days is not linear and there are many other factors that have to be accounted for.
